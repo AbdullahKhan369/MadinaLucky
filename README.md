@@ -7,15 +7,6 @@ React 19 · Vite · TypeScript · Tailwind CSS v4 · Framer Motion · Lucide Rea
 
 No backend, database, or API — 100% static.
 
-## Getting started
-
-```bash
-npm install
-npm run dev      # local development at http://localhost:5173
-npm run build    # production build -> dist/
-npm run preview  # preview the production build locally
-```
-
 Upload the contents of `dist/` to your hosting after building.
 
 ## What to edit
